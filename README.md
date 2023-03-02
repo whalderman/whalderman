@@ -71,17 +71,18 @@ While I did not build much with it, I gained an incredibly useful understanding 
 
 ### Personal
 
-- [Tome School]() - Release date TBD
+- [Tome School]() - Release date TBD　
+- [Rasterpiece][9001] - My photography site
 
 ## Relatively Irrelevant Info
 - I'm married to a wonderfully kind wife, いつか
-- I practice photography and keep a record over at [rasterpiece.gallery](https://rasterpiece.gallery)
+- I practice photography and keep a record over at [rasterpiece.gallery][9001]
 - I've practiced aikido and boxing, and enjoy most martial arts, but for whatever reason get no enjoyment watching it
 - I thoroughly enjoy gardening and working the land
 - It is my dream to own a tiny farm
 - I have an interest in:
   - architecture & its design, but am not sure if it's worthwhile to enter the field
-  - biopharmeceuticals and how synthetic insulin is made, it is the only reason I survived past childhood
+  - biopharmeceuticals and how synthetic insulin is made; it is the only reason I survived past childhood
 
 [1]: https://chrome.google.com/webstore/detail/seodin-page-analyzer/obmnleflmffnkfdiaecgniokcfebhnkd
 [2]: https://nodejs.org/
@@ -107,3 +108,4 @@ While I did not build much with it, I gained an incredibly useful understanding 
 [101]: https://bruceclay.jpn.com/
 [102]: https://bruceclay.jpn.com/docs/
 
+[9001]: https://rasterpiece.gallery
