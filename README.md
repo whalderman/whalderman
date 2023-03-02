@@ -24,10 +24,10 @@ While I did not build much with it, I gained an incredibly useful understanding 
   - studying __Kinesiology__, __Nutrition__
   - attempting to get into game development, gaining familiarity with __Visual Studio__, __SDL__, __SFML__, __Mono__ -- realizing now that I was in a bit over my head at the time.
 - I begin studying digital marketing and SEO to start a new career helping companies around the U.S. prioritize optimizations and improvements for their websites.
-- Eventually I was hired by the magnificent SEO team at <span style="color:#1972b9;">__Bruce Clay Inc.__</span>, and noticed a need for the automation of the more tedious tasks.
+- Eventually I was hired by the magnificent SEO team at __Bruce Clay Inc.__, and noticed a need for the automation of the more tedious tasks.
 - I started learning __Python__ in order to utilize the various APIs provided by Google and write simple scripts that performed some routine work, and slowly began regaining my interest in software development that had been lost previously.
 - My focus eventually shifted toward the more technical aspects of SEO, helping global businesses solve technical website issues that hindered load performance and accessibility in addition to all the standard procedures of improving site structure and presentation.
-- Eventually I moved to Japan 🇯🇵 to join the SEO team at <span style="color:#1972b9;">__ブルースクレイ・ジャパン株式会社__</span> (Bruce Clay Japan, Inc.), upon which I quickly transitioned to a software engineering-centric role.
+- Eventually I moved to Japan 🇯🇵 to join the SEO team at __ブルースクレイ・ジャパン株式会社__ (Bruce Clay Japan, Inc.), upon which I quickly transitioned to a software engineering-centric role.
 
 ## My Projects
 
