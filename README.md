@@ -66,7 +66,7 @@ While I did not build much with it, I gained an incredibly useful understanding 
   - [Chatwork API](https://developer.chatwork.com/)
   - [GCP][18]
   - [Apps Script][19] - Hoo boy...
-- Custom script setup for tracking through [GTM](https://marketingplatform.google.com/about/) using hellish tools like [GA](https://marketingplatform.google.com/about/analytics/)/[CM360](https://marketingplatform.google.com/about/), FB [Pixels](https://www.facebook.com/business/tools/meta-pixel), etc.
+- Custom script setup for tracking through [GTM](https://marketingplatform.google.com/about/) using hellish tools like [GA](https://marketingplatform.google.com/about/analytics/)/[CM360](https://marketingplatform.google.com/about/campaign-manager-360/), FB [Pixels](https://www.facebook.com/business/tools/meta-pixel), etc.
 - Creating custom scrapers using [puppeteer][8] for gathering data where APIs are not provided.
 
 ### Personal
