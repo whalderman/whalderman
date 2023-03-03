@@ -82,7 +82,7 @@ While I did not build much with it, I gained an incredibly useful understanding 
 - It is my dream to own a tiny farm
 - I have an interest in:
   - architecture & its design, but am not sure if it's worthwhile to enter the field
-  - biopharmeceuticals and how synthetic insulin is made; it is the only reason I survived past childhood
+  - biopharmaceuticals and how synthetic insulin is made; it is the only reason I survived past childhood
 
 [1]: https://chrome.google.com/webstore/detail/seodin-page-analyzer/obmnleflmffnkfdiaecgniokcfebhnkd
 [2]: https://nodejs.org/
