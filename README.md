@@ -1,6 +1,1 @@
-<sup>debian</sup>
-<sub>neovim</sub>
-<sup>frontends</sup>
-<sub>backends</sub>
-<sup>containers</sup>
-<sub>clouds</sub>
+<sup>01001110</sup><sub>01101111</sub><sup>01110100</sup><sub>00100000</sub><sup>01110011</sup><sub>01110101</sub><sup>01110010</sup><sub>01100101</sub><br><sup>00100000</sup><sub>01110111</sub><sup>01101000</sup><sub>01100001</sub><sup>01110100</sup><sub>00100000</sub><sup>01111001</sup><sub>01101111</sub><br><sup>01110101</sup><sub>00100111</sub><sup>01110010</sup><sub>01100101</sub><sup>00100000</sup><sub>01101100</sub><sup>01101111</sup><sub>01101111</sub><br><sup>01101011</sup><sub>01101001</sub><sup>01101110</sup><sub>01100111</sub><sup>00100000</sup><sub>01110100</sub><sup>01101111</sup><sub>00100000</sub><br><sup>01100110</sup><sub>01101001</sub><sup>01101110</sup><sub>01100100</sub><sup>00100000</sup><sub>01101000</sub><sup>01100101</sup><sub>01110010</sub><br><sup>01100101</sup><sub>00101110</sub><sup>00100000</sup><sub>11100011</sub><sup>10000001</sup><sub>10101010</sub><sup>11100011</sup><sub>10000010</sub><br><sup>10010011</sup><sub>11100011</sub><sup>10000001</sup><sub>10100000</sub><sup>11100011</sup><sub>10000010</sub><sup>10001101</sup><sub>11100011</sub><br><sup>10000001</sup><sub>10000110</sub><sup>11100011</sup><sub>10000001</sub><sup>10101101</sup><sub>11100011</sub><sup>10000000</sup><sub>10000010</sub>
